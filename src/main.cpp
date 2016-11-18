@@ -7,6 +7,5 @@
 int main() {
     programFlow pf;
     pf.displayManager();
-    _getch();
     return 0;
 }
